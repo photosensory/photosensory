@@ -6,6 +6,6 @@
 
 <table width="100%">
   <td width="100%">
-    [![Spotify](https://spotify-now-playing-snowy.vercel.app/api/spotify)(https://open.spotify.com/user/43licq4xxvpqkugka9s4sj41c)
+    &nbsp; <br> [![Spotify](https://spotify-now-playing-snowy.vercel.app/api/spotify)(https://open.spotify.com/user/43licq4xxvpqkugka9s4sj41c)
   </td>
 </table>

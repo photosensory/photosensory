@@ -4,8 +4,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=photosensory&show_icons=true&line_height=27&theme=dark&hide_border=true&card_width=495">
 </p>
 
-<table width="100%">
-  <td width="100%">
-    &nbsp; <br> [![Spotify](https://spotify-now-playing-snowy.vercel.app/api/spotify)(https://open.spotify.com/user/43licq4xxvpqkugka9s4sj41c)
-  </td>
-</table>
+<img src="https://spotify-now-playing-snowy.vercel.app/api/spotify">
